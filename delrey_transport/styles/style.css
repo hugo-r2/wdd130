@@ -153,6 +153,7 @@ h2 {
 #main-title{
     font-size: 2.5em;
 }
+
 .main-message {
     grid-column: 1 / span 10;
     margin-left: 10px;
